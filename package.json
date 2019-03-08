@@ -25,5 +25,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/marcosprosperi/keypad.git",
+  "author": "Marcos Prosperi <mprosperi@gmail.com>",
+  "license": "MIT"
 }
